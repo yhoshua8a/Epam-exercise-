@@ -1,14 +1,14 @@
 ## Clone the repository
 
-First you need to clone this repository with `git clone ssh/https`, the application is in the folder app.
+First you need to clone this repository with `git clone ssh/https`, the application is in the directory app.
 
 ## Install all dependencies
 
-You need to stay in app directory, in the file cloned type in console `cd app`. Install all dependencies with `npm install`
+You need to stay in app directory, in the directory cloned type in console `cd app`. Install all dependencies with `npm install`
 
 ## Run the application
 
-Inside the app file runs the app with `npm start`
+Inside the app directory runs the app with `npm start`
 
 ## Available Scripts
 
