@@ -1,0 +1,21 @@
+/* Estilo para etiquetas html*/
+
+*, 
+*::before,
+*:after{
+    box-sizing: border-box;
+}
+
+html { 
+    font-size: 62.5%; /* =10px */
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1.4rem; /* =14px */
+}
+
+.app{
+    position: relative;
+}

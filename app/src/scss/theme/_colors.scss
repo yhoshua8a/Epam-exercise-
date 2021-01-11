@@ -1,0 +1,27 @@
+:root{
+    --color-white:#F6F6F6;
+    --color-darks:#282D31;
+    --first-color: orange;
+    --second-color:blue;
+    --third-color:green;
+
+
+}
+
+.first-color, .color-first{
+    --color: var(--first-color);
+    --txt-color: var(--color-white);
+}
+
+.second-color, .color-second{
+    --color: var(--second-color);
+    --txt-color: var(--color-white);
+}
+
+.third-color, .color-third{
+    --color: var(--third-color);
+    --txt-color: var(--color-white);
+}
+
+
+

@@ -1,0 +1,23 @@
+//Config
+@import "config/functions";
+@import "config/variables";
+@import "config/mixins";
+
+//Base and elements(generic)
+@import "base/base.scss";
+
+//LAYOUT
+@import "layout/layout";
+
+//MODULES(SMACSS) OR COMPONENTS (ITCSS)
+@import "components/button";
+@import "components/gallery";
+@import "components/footer";
+@import "components/header";
+
+//Theme (colors and fonts)
+@import "theme/typography";
+@import "theme/colors";
+
+//HACKS
+@import "hacks/hacks";
